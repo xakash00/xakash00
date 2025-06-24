@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 4+ years of experience building responsive web & mobile applications  
+- 💻 3+ years of experience building responsive web & mobile applications  
 - 🔭 Focused on developing **performance-optimized** web apps using React, Next.js, and Vite. 
 - 🚀 Skilled in **pixel-perfect UI**, API integrations, and performance optimization   
 - 🧠 Passionate about clean code, scalability, and user experience  
